@@ -28,5 +28,5 @@ public class TestOfPK {
 			System.out.println("조회 실패");
 		}
 	}
-
+  
 }
